@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/zrok_1.1.3_windows_amd64.tar.gz
+/zrok.exe
+/.env
+/agent.py
+/agents.ipynb
+/apigateaycode.py
+/API_key.env
+/design notes.txt
+/example.env
+/fail.py
+/test.py
+/twilio_handler.py
