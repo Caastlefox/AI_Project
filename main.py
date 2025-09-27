@@ -34,7 +34,6 @@ class TwilioWebSocketManager:
         handler = TwilioHandler(websocket)
         return handler
 
-    # In a real app, you'd also want to clean up/close the handler when the call ends
 
 
 manager = TwilioWebSocketManager()
